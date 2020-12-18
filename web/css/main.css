@@ -1,0 +1,15 @@
+@import 'article.css';
+@import 'nav.css';
+
+body {
+  min-width: 450px;
+  min-height: 980px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
